@@ -21,6 +21,7 @@
   },
   "packageManager": "yarn@3.5.0",
   "devDependencies": {
+    "@netlify/esbuild": "npm:0.14.39",
     "@netlify/plugin-nextjs": "4.32.2",
     "autoprefixer": "^10.4.14",
     "eslint": "8.37.0",
