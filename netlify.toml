@@ -3,5 +3,4 @@
   publish = ".next"
 
 [[plugins]]
-  # Installs the Lighthouse Build Plugin for all deploy contexts
-  package = "@netlify/plugin-nextjs@4.32.2"
+  package = "@netlify/plugin-nextjs"
